@@ -10,7 +10,7 @@ This project uses **multiple linear regression** to predict salaries in USD (`sa
 
 ## Requirements
 
-- Python 3.x
+- Python 3.11.2
 - Libraries: `pandas`, `numpy`, `scikit-learn`, `matplotlib`
 
 Install dependencies with:
